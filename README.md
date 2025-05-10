@@ -1,7 +1,6 @@
 # Virtual Cricket App
 
 **Author:** Vikas Lavaniya  
-**Assignment:**  Final project of Internshala Trainings (C and C++ Course)
 
 ------
 
